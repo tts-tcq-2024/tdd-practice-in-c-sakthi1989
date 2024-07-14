@@ -1,3 +1,5 @@
+#include <string.h>
+#include <stdlib.h>
 int add(const char* input)
 {
     int sum = 0, i = 0, j = 0;
